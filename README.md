@@ -1,6 +1,6 @@
 # NetShare: Distributed File Sharing and Communication System
 
-NetShare is a scalable, distributed system for file sharing, real-time communication, and data analysis. This project demonstrates the use of microservices architecture and various modern technologies in Java.
+NetShare is a scalable, distributed system for file sharing, real-time communication, and data analysis.
 
 ## Services
 
